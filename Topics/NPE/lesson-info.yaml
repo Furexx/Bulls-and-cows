@@ -1,0 +1,5 @@
+content:
+- Theory
+- Avoid NPE
+- Unknown input
+- Return empty string when argument is null

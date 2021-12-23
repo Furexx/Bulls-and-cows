@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            ArrayList<String> nameList = new ArrayList<>(Arrays.asList("Mr.Green", "Mr.Yellow", "Mr.Red"));
+            // write your code here
+        }
+    }
+  learner_created: false
+- name: src/Task.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2322#comment
+status: Failed
+feedback:
+  message: 'Unknown language: java11. Please reload the page and try again'
+  time: Sun, 19 Dec 2021 12:45:50 UTC
+record: -1
